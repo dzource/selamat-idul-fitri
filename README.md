@@ -1,4 +1,5 @@
-Ucapan SELAMAT IDUL FITRI klik >> [DISINI](http://www.datazource.url.ph/PHP-MySQL/index.php) <<.
+klik >> [DISINI](http://www.datazource.url.ph/eid) <<.
 ========
 
-This is very simple CRUD - CI application for Beginner
+Ucapan selamat idul fitri untuk teman-teman & keluarga.
+Setelah link di atas terbuka, Di skroll ke bawah yaa.. :D
